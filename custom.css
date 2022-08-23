@@ -1,5 +1,5 @@
 body {
-  font-family: "Open Sans";
+  font-family: "Open Sans", sans-serif;
 }
 
 /*
@@ -11,7 +11,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: "Lato";
+  font-family: "Lato", sans-serif;
 }
 
 /*
@@ -84,7 +84,7 @@ header#main {
 
 header#main .brand a {
   display: block;
-  font-family: "Pacifico";
+  font-family: "Pacifico", sans-serif;
   font-size: 2em;
   color: #393f4a;
   margin-bottom: 20px;
