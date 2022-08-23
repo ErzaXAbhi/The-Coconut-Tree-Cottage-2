@@ -84,7 +84,7 @@ header#main {
 
 header#main .brand a {
   display: block;
-  font-family: "Pacifico", sans-serif;
+  font-family: "Pacifico";
   font-size: 2em;
   color: #393f4a;
   margin-bottom: 20px;
