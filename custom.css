@@ -267,42 +267,42 @@ nav#main ul li a:not(.button) {
 
 .item-inner {
   background-size: cover;
-  background-image: url(../img/gallery_1.jpg);
+  background-image: url(gallery_1.jpg);
   padding-top: calc(100% / (16 / 9));
 }
 
 .item:nth-child(2) .item-inner {
-  background-image: url(../img/gallery_2.jpg);
+  background-image: url(gallery_2.jpg);
 }
 .item:nth-child(3) .item-inner {
-  background-image: url(../img/gallery_3.jpg);
+  background-image: url(gallery_3.jpg);
 }
 .item:nth-child(4) .item-inner {
-  background-image: url(../img/gallery_4.jpg);
+  background-image: url(gallery_4.jpg);
 }
 .item:nth-child(5) .item-inner {
-  background-image: url(../img/gallery_5.jpg);
+  background-image: url(gallery_5.jpg);
 }
 .item:nth-child(6) .item-inner {
-  background-image: url(../img/gallery_6.jpg);
+  background-image: url(gallery_6.jpg);
 }
 .item:nth-child(7) .item-inner {
-  background-image: url(../img/gallery_7.jpg);
+  background-image: url(gallery_7.jpg);
 }
 .item:nth-child(8) .item-inner {
-  background-image: url(../img/gallery_8.jpg);
+  background-image: url(gallery_8.jpg);
 }
 .item:nth-child(9) .item-inner {
-  background-image: url(../img/gallery_9.jpg);
+  background-image: url(gallery_9.jpg);
 }
 .item:nth-child(10) .item-inner {
-  background-image: url(../img/gallery_10.jpg);
+  background-image: url(gallery_10.jpg);
 }
 .item:nth-child(11) .item-inner {
-  background-image: url(../img/gallery_11.jpg);
+  background-image: url(gallery_11.jpg);
 }
 .item:nth-child(12) .item-inner {
-  background-image: url(../img/gallery_12.jpg);
+  background-image: url(gallery_12.jpg);
 }
 
 @media screen and (min-width: 480px) {
@@ -322,54 +322,6 @@ nav#main ul li a:not(.button) {
     flex: 1 1 25%;
   }
 }
-
-/* footer .footer_info {
-  width: 90%;
-  margin: 0 auto;
-  display: flex;
-  padding: 50px 0;
-}
-
-.footer_info .footer_width {
-  padding: 0 15px;
-}
-
-.footer_info h3 {
-  margin-bottom: 20px;
-}
-
-.about,
-.contact {
-  width: 40%;
-}
-
-.link {
-  width: 20%;
-}
-
-.social-media {
-  margin-top: 30px;
-}
-
-.social-media ul {
-  display: flex;
-  text-decoration: none;
-}
-
-.social-media li {
-  text-decoration: none;
-}
-
-.social-media ul li a {
-  display: inline-block;
-  margin-right: 50px;
-  width: 50px;
-  height: 50px;
-  padding-top: 12px;
-  background-color: transparent;
-  border: 1px solid #fff;
-  text-align: center;
-} */
 
 /********************/
 /* MAP Section */
